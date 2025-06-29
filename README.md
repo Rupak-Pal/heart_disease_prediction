@@ -1,0 +1,1 @@
+This project focuses on building a machine learning model to predict heart disease based on patient data. It involves data analysis, training various classification models (including Logistic Regression, Naive Bayes, SVM, KNN, Decision Tree, Random Forest, XGBoost, and Neural Network), and creating a Flask API to serve predictions using the best-performing model (Random Forest).
